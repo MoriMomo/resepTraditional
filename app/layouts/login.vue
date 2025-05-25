@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>default</h1>
+    <h1>login Layout</h1>
     <slot></slot>
   </div>
 </template>
