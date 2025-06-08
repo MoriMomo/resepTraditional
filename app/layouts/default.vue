@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>default</h1>
-    <slot></slot>
+    <BaseNav />
+    <slot />
   </div>
 </template>
 

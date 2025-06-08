@@ -4,13 +4,11 @@ export default {
   theme: {
     extend: {
       colors: {
-        tr: {
-          purple: '#9b04b4',
-          orange: '#b63200',
-          lavender: '#c374c2',
-          brown: '#615b36',
-          darkbrown: '#322314',
-          yellow: '#e4d274',
+        food: {
+          sambal: '#D32F2F',
+          turmeric: '#FFB300',
+          pandan: '#4CAF50',
+          rice: '#F5F5DC',
         },
       },
     },
@@ -26,4 +24,3 @@ export default {
   },
   plugins: [],
 }
-
